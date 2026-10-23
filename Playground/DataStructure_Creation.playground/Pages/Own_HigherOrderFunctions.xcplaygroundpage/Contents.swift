@@ -1,6 +1,6 @@
 import UIKit
 
-var greeting = "Hello, playground"
+var greeting = "Welcome to iMRhb 👋 code playground"
 
 /// ============== ``Map ==============
 ///
